@@ -11,7 +11,7 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
             string[] studentInClass = new string[5];
-            studentInClass[0] = "Colin";
+            studentInClass[0] = "Colins";
             studentInClass[1] = "Anthony";
             studentInClass[2] = "Jeffery";
             studentInClass[3] = "Shannon";
