@@ -1,0 +1,8 @@
+C:\Users\tri-c.edu\Documents\Visual Studio 2015\Projects\Pokemon 2.0\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\tri-c.edu\Documents\Visual Studio 2015\Projects\Pokemon 2.0\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\tri-c.edu\Documents\Visual Studio 2015\Projects\Pokemon 2.0\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\tri-c.edu\Documents\Visual Studio 2015\Projects\Pokemon 2.0\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\tri-c.edu\Documents\Visual Studio 2015\Projects\Pokemon 2.0\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\Projects\Pokemon 2.0\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\Projects\Pokemon 2.0\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\Projects\Pokemon 2.0\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
