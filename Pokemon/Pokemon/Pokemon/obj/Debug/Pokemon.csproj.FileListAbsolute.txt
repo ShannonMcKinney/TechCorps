@@ -1,0 +1,3 @@
+C:\Users\tri-c.edu\Desktop\Pokemon\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\tri-c.edu\Documents\Visual Studio 2015\Projects\Pokemon\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+F:\Projects\Pokemon\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
