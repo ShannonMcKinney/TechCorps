@@ -4,3 +4,6 @@ F:\Projects\Code 2.0\Code 2.0\bin\Debug\Code 2.0.pdb
 F:\Projects\Code 2.0\Code 2.0\obj\Debug\Code 2.0.csprojResolveAssemblyReference.cache
 F:\Projects\Code 2.0\Code 2.0\obj\Debug\Code 2.0.exe
 F:\Projects\Code 2.0\Code 2.0\obj\Debug\Code 2.0.pdb
+F:\Projects\Tech Corps Projects\Code 2.0\Code 2.0\bin\Debug\Code 2.0.exe.config
+F:\Projects\Tech Corps Projects\Code 2.0\Code 2.0\obj\Debug\Code 2.0.exe
+F:\Projects\Tech Corps Projects\Code 2.0\Code 2.0\obj\Debug\Code 2.0.pdb
