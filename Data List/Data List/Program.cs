@@ -16,8 +16,7 @@ namespace Data_List
             students.Add("Joseph");
             students.Add("Jacob");
             students.Add("Parker");
-
-
         }
+
     }
 }
